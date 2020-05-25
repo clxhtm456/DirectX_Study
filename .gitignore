@@ -1,3 +1,8 @@
+Debug_*
+Debug*
+.vs
+*.pdb
+
 # Prerequisites
 *.d
 
